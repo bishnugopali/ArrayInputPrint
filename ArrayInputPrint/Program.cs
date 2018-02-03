@@ -29,7 +29,7 @@ namespace ArrayInputPrint
          
                 }
                 Console.Write("\n");
-            
+            Console.ReadLine();            
         }
     }
 }
